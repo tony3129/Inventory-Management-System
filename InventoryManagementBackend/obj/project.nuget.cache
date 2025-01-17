@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+zvJAbroRS0+x1bEfUlL3+mw3e3CD1UPaR/lVez9EFMZsyL3utrzr9F/vBLTEV7QK0LFu6RxQRHRnk+ZjJsNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liuht\\Desktop\\GitHub Projects\\Inventory Management System\\InventoryManagementBackend\\InventoryManagementBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liuht\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
