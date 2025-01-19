@@ -11,7 +11,7 @@ DotEnv.Load();
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options=>{
     options.UseNpgsql(connectionString);
-})
+});
 
 // Add services to the container.
 
