@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "55AC9lUOgXIKi5eBSqI4LWkc7oKTEkiDS2KonsIz7wnseICbuKPIlBOO/eVGMT2PLJlwfqll6E2syQuMAVaf6g==",
+  "dgSpecHash": "AGDG+WosfQSyPUpoCRfLjhZTi/+cuyOe9W0x2x+0hAElBR1G9qOCFK2DTRH9m/PRstVtpe3DrqQK8DUwfiRwJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\liuht\\Desktop\\GitHub Projects\\Inventory Management System\\InventoryManagementBackend\\InventoryManagementBackend.csproj",
   "expectedPackageFiles": [
@@ -76,6 +76,7 @@
     "C:\\Users\\liuht\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",

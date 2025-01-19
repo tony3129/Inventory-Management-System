@@ -71,6 +71,10 @@
               "target": "Package",
               "version": "[6.5.0, )"
             },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "dotenv.net": {
               "target": "Package",
               "version": "[3.2.1, )"
