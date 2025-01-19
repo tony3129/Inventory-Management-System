@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PPKCbzQmjQeX6yJSSCUhvOPwZsVCslDTYSiIoAqmBFrKg88tkwa38tvbuyxBoOazkKKCvsPcSaIz5S9sSBdNtA==",
+  "dgSpecHash": "xpLOrUqeLWKeuKR9p0V7be0TlHyWC0R2yfaO7GII6vFyqH31dS7qN9nwJGxSgUSV+j9PttP/X05bAndmABhfrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\liuht\\Desktop\\GitHub Projects\\Inventory Management System\\InventoryManagementBackend\\InventoryManagementBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liuht\\.nuget\\packages\\dotenv.net\\3.2.1\\dotenv.net.3.2.1.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\liuht\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.1\\microsoft.entityframeworkcore.tools.9.0.1.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\microsoft.extensions.configuration\\1.1.2\\microsoft.extensions.configuration.1.1.2.nupkg.sha512",
     "C:\\Users\\liuht\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\1.1.2\\microsoft.extensions.configuration.abstractions.1.1.2.nupkg.sha512",
