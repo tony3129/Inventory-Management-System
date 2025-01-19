@@ -1,0 +1,7 @@
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.csproj.AssemblyReference.cache
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.AssemblyInfoInputs.cache
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.AssemblyInfo.cs
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.csproj.CoreCompileInputs.cache
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\liuht\Desktop\GitHub Projects\Inventory Management System\InventoryManagementBackend\obj\Debug\net7.0\InventoryManagementBackend.MvcApplicationPartsAssemblyInfo.cache
