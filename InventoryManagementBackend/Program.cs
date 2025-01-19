@@ -1,5 +1,6 @@
 using InventoryManagementBackend.Data;
 using Microsoft.EntityFrameworkCore;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 using dotenv.net;
 
 var builder = WebApplication.CreateBuilder(args);
